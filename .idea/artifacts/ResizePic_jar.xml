@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ResizePic:jar">
+    <output-path>$PROJECT_DIR$/ResizeImagesTool</output-path>
+    <root id="archive" name="ResizePic.jar">
+      <element id="module-output" name="ResizePic" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/jar/java-json.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/jar/jsoup-1.11.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
